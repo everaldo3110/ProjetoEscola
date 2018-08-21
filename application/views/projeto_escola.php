@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
     <h1>Primeiro teste da escola!</h1>
     <?php
-    //alteração no Netbeans!
+    //alteração no Netbeans
     ?>
     
 </body>
