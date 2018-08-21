@@ -7,4 +7,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<title>Teste escola</title>
 <body>
     <h1>Primeiro teste da escola!</h1>
+	//alterado do repositório!
 </body>
